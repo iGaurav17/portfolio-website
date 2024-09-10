@@ -1,0 +1,192 @@
+[
+  {
+    "name": "Online Food Ordering Sytem",
+    "desc": "The project utilizes Java for backend logic, MySQL for database management, JSP for dynamic web page generation, and Spring for seamless efficient development.",
+    "image": "onlinefoodpic",
+    "category": "Java Full Stack",
+    "links": {
+      "view": "https://github.com/khushi0723/OnlineFoodOrder",
+      "code": "https://github.com/khushi0723/OnlineFoodOrder"
+    }
+  },
+  {
+    "name": "Tindog Website",
+    "desc": "This website is for the dog owners who feel that they need partner for their lonely pets.",
+    "image": "tindog",
+    "category": "Website devopment",
+    "links": {
+      "view": "https://khushi0723.github.io/Tindog-Website/",
+      "code": "https://github.com/khushi0723/Tindog-Website"
+    }
+  },
+
+  {
+    "name": "WebChat Website",
+    "desc": "It's a web based chat app made using popular javaScript library Socket IO. Allows multiple users to connect.",
+    "image": "webchat",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/khushi0723/LiveChat",
+      "code": "https://github.com/khushi0723/LiveChat"
+    }
+  },
+  {
+    "name": "Ecommerce Website",
+    "desc": "Developed E-Commerce website enabling efficient product management. Used Java and MySQL for database connectivity, Spring Boot, HTML, CSS.",
+    "image": "ecommerceweb",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/khushi0723/Ecommerce-Website",
+      "code": "https://github.com/khushi0723/Ecommerce-Website"
+    }
+  },
+
+  {
+    "name": "Basic Banking App",
+    "desc": "It's an android app which uses SQLite to store user accounts data. It provides feature to simply transact amount.",
+    "image": "basicbank",
+    "category": "android",
+    "links": {
+      "view": "https://khushi0723.github.io/Banking-App/",
+      "code": "https://github.com/khushi0723/Banking-App"
+    }
+  },
+  {
+    "name": "NewsBox Android",
+    "desc": "Native android app built using Java, XML. Retrofit & Glide dependencies. Provides different category news.",
+    "image": "newsboxandroid",
+    "category": "android",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Weatherly Android",
+    "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
+    "image": "weatherlyandroid",
+    "category": "android",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  
+
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio1",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  
+  
+  {
+    "name": "Webview App",
+    "desc": "It's an android app which uses web view component for displaying content. This app provides many different features.",
+    "image": "webviewapp",
+    "category": "android",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  
+  {
+    "name": "Bootstrap Portfolio",
+    "desc": "Portfolio built using HTML, CSS, Bootstrap, SASS and JavaScript. Customized Bootstrap using SCSS.",
+    "image": "bootstrapportfolio",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Bootstrap Template",
+    "desc": "Basic website template built using HTML and Bootstrap.",
+    "image": "bootstraptemplate",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+ 
+
+  {
+    "name": "Job Finder Dummy",
+    "desc": "It Fetch JSON Data And Allow Feature To Search Within The Content Displayed. Will be Developed By Using Live APIs.",
+    "image": "saas",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Old Websites",
+    "desc": "Bestwebs & ColorCoder. Two Years old websites memories. Simple with basic features.",
+    "image": "oldsites",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Resistor Color Codes",
+    "desc": "Simply provides the color codes of resistors. Calculation information and about resistors.",
+    "image": "resistercolor",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "KIA Info Website",
+    "desc": "Basic KIA webpage displays the info about seltos product range. Specs and Image Gallery.",
+    "image": "kiaweb",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Burger Shop Dummy",
+    "desc": "Basic burger shop webpage allow users to check menu and price. Dummy Order Form.",
+    "image": "burgerweb",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Indian Temples",
+    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
+    "image": "templeweb",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  
+  {
+    "name": "Indian Temples",
+    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
+    "image": "templeweb",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
